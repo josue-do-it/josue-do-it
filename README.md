@@ -35,7 +35,6 @@ I am especially interested in collaborations that connect **research laboratorie
 📧 **josue@aims.ac.za**  
 💼 **LinkedIn** : https://linkedin.com/in/yourprofile  
 
-⭐ Feel free to explore my repositories — they reflect my research-oriented journey and industry-relevant AI work.
 
 
 <!--
