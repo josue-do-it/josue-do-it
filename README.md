@@ -1,6 +1,14 @@
 ## # 👋 Hi, I'm Josue Romaric Edou
 
-I am a **Mathematical Engineering and Modeling Engineer** with a strong research-driven interest in **Artificial Intelligence**. Currently a **[Google DeepMind Scholar](https://deepmind.google/education/) at African Institute for Mathmatical Sciences ([AIMS](https://aims.ac.za/)) South Africa**, I am deeply engaged in advanced AI  at the intersection of theory, practice, and real-world impact.
+Mathematical and Modeling Engineer with a strong research-driven interest in **Artificial Intelligence**. Currently a <span>
+  <a href="https://deepmind.google/education/" style="text-decoration: none; color: inherit;">
+    <strong>Google DeepMind Scholar</strong>
+  </a>
+</span> at African Institute for Mathmatical Sciences ( <span>
+  <a href="https://aims.ac.za/" style="text-decoration: none; color: inherit;">
+    <strong>AIMS</strong>
+  </a>
+</span>) South Africa**, I am deeply engaged in advanced AI  at the intersection of theory, practice, and real-world impact.
 
 
 > *“Intelligence is the ability to adapt to change.”*  
