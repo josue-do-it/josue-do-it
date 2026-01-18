@@ -33,7 +33,7 @@ I am especially interested in collaborations that connect **research laboratorie
 
 📫 **Contact**  
 📧 **josue@aims.ac.za**  
-💼 **LinkedIn** : https://linkedin.com/in/yourprofile  
+💼 **LinkedIn** : www.linkedin.com/in/romaric-edou
 
 
 
