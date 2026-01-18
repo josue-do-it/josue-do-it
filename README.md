@@ -1,6 +1,14 @@
-## Hi there 👋
+## # 👋 Hi, I'm Josue Romaric Edou
 
-I am currently deepening my expertise in **Large Language Models (LLMs)**, **Reinforcement Learning**, and **advanced deep learning architectures**, with a particular interest in how modern AI systems learn, generalize, and scale. My learning trajectory is guided by research questions that are relevant both to **academic inquiry** and **real-world industrial applications**.
+I am a **Mathematical Engineering and Modeling Engineer** with a strong research-driven interest in **Artificial Intelligence**. Currently a **[Google DeepMind Scholar](https://deepmind.google/education/) at African Institute for Mathmatical Sciences ([AIMS](https://aims.ac.za/)) South Africa**, I am deeply engaged in advanced AI  at the intersection of theory, practice, and real-world impact.
+
+
+> *“Intelligence is the ability to adapt to change.”*  
+> — **Demis Hassabis**
+
+My main research interests revolve around **Natural Language Processing (NLP)** , **Large Language Models (LLMs)** and  **Computer Vision**. I also actively explore **Reinforcement Learning (RL)** and advanced deep learning architectures, with a focus on how learning systems make decisions and adapt to complex environments.
+
+I am especially interested in collaborations that connect **research laboratories and industry-driven AI applications**.
 
 ---
 
