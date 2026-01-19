@@ -1,6 +1,8 @@
-<h1> 👋 Hi, I'm Josue R. Edou <img src="https://emojipedia.org/_next/image?url=https%3A%2F%2Fis.zobj.net%2Fimage-server%2Fv1%2Fimages%3Fr%3DzeLvtCApWBy5Ik-kNy46Kab6XcTyD8GPHz1uwhwLnZEbBgxCdXKRAN-BXWuT_2-JRbrleW3kotut3qk_A82t3Yh3AjXt7wuFBJVp7PWAh-UvohTJduMdzMMlBPyQ-DGLbTSI8LehOqUhvCHbwOzuDUBeJr8XuNfi9RLf9etu8ladumvGBK3C5UShhsBe5Tg622YrfBRevpTLiGBo0qAbYbMK7SqizTgvR5f-GNjV73lfr2_k3K9o3UYAIkw&w=256&q=75" width="20"></h1> 
+<h1> 👋 Hi, I'm Josue R. Edou <img src="https://emojipedia.org/_next/image?url=https%3A%2F%2Fis.zobj.net%2Fimage-server%2Fv1%2Fimages%3Fr%3DzeLvtCApWBy5Ik-kNy46Kab6XcTyD8GPHz1uwhwLnZEbBgxCdXKRAN-BXWuT_2-JRbrleW3kotut3qk_A82t3Yh3AjXt7wuFBJVp7PWAh-UvohTJduMdzMMlBPyQ-DGLbTSI8LehOqUhvCHbwOzuDUBeJr8XuNfi9RLf9etu8ladumvGBK3C5UShhsBe5Tg622YrfBRevpTLiGBo0qAbYbMK7SqizTgvR5f-GNjV73lfr2_k3K9o3UYAIkw&w=256&q=75" width="20"></h1> <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWc2YjhvMHFpOTdheGJjaDd6MTJqOTR2ZmN4c2JqN2d6M2t5dTB6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SlKBbQNNZNfcPRWYW7/giphy.gif" width="200">
 
-Studying AI for science at African Institute for Mathmatical Sciences
+
+
+✨ Studying AI for science at African Institute for Mathmatical Sciences
 <a href="https://ai.aims.ac.za/">(AIMS)</a> -
 <a href="https://www.su.ac.za/en">Stellenbosch University</a></br>
 
@@ -56,6 +58,9 @@ I have used these tools (non exhaustive list) to develop bug-free software that 
 > — **Demis Hassabis**
 
 <!--
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM2dGxhN3llYWZqbnFtaDBpMTF0ZmZ0YnNmODd4amd4NHZhajlkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="230"> 
+
+
 **josue-do-it/josue-do-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
