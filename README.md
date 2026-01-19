@@ -1,4 +1,4 @@
-## # 👋 Hi, I'm Josue Romaric Edou
+#👋 Hi, I'm Josue R. Edou
 
 Mathematical and Modeling Engineer with a strong research-driven interest in **Artificial Intelligence**. Currently a <span>
   <a href="https://deepmind.google/education/" style="text-decoration: none; color: inherit;">
